@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [Introduction](#)
+- [Introduction](00_introduction/notes.md)
 - Relational Databases
 - XML Data
 - JSON Data
