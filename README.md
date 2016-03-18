@@ -1,7 +1,9 @@
 # Table of Contents
 
 - [Introduction](00_introduction/notes.md)
-- Relational Databases
+- [Relational Databases](01_relational-databases/summary.md)
+    - The Relational Model ([annotated slides](01_relational-databases/RelationalModel.pdf))
+    - Querying Relational Databases ([annotated slides](01_relational-databases/RelationalQuerying.pdf))
 - XML Data
 - JSON Data
 - Relational Algebra
