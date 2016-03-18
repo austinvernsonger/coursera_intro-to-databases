@@ -5,6 +5,7 @@
     - The Relational Model ([annotated slides](01_relational-databases/RelationalModel.pdf))
     - Querying Relational Databases ([annotated slides](01_relational-databases/RelationalQuerying.pdf))
 - XML Data
+    - Well-formed XML ([notes](02_xml-data/well-formed-xml.md) | [annotated slides](02_xml-data/well-formed-xml.pdf))
 - JSON Data
 - Relational Algebra
 - SQL
