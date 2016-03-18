@@ -7,6 +7,7 @@
 - XML Data
     - Well-formed XML ([notes](02_xml-data/well-formed-xml.md) | [annotated slides](02_xml-data/well-formed-xml.pdf))
     - DTDs, IDs, and IDREFS ([notes](02_xml-data/dtds.md) | [annotated slides](02_xml-data/dtds.pdf))
+    - XML Schema ([notes](02_xml-data/xml-schema.md) | [annotated slides](02_xml-data/xml-schema.pdf))
 - JSON Data
 - Relational Algebra
 - SQL
