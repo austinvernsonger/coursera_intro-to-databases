@@ -6,6 +6,7 @@
     - Querying Relational Databases ([annotated slides](01_relational-databases/RelationalQuerying.pdf))
 - XML Data
     - Well-formed XML ([notes](02_xml-data/well-formed-xml.md) | [annotated slides](02_xml-data/well-formed-xml.pdf))
+    - DTDs, IDs, and IDREFS ([notes](02_xml-data/dtds.md) | [annotated slides](02_xml-data/dtds.pdf))
 - JSON Data
 - Relational Algebra
 - SQL
