@@ -20,7 +20,7 @@
 
 # Example 
 
-### [`Bookstore-XSD.xml`](./Bookstore-XSD.xml) with [`Bookstore.xsd`](./Bookstore.xsd)
+### [`Bookstore-XSD.xml`](./data/Bookstore-XSD.xml) with [`Bookstore.xsd`](./data/Bookstore.xsd)
 
 - Instead of using `IDREF` attributes to refer from books to authors, we now back our back having an author's sub-element with the two authors underneath and then those authors themselves have what are effectively *pointers to the identifiers* for the authors
 - The XSD is in a separate file from the actual XML data

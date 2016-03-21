@@ -50,7 +50,7 @@ Has to adhere to the basic structural requirements as well-formed XML, but it al
 
 # Examples 
 
-## [`Bookstore-DTD.xml`](./Bookstore-DTD.xml)
+## [`Bookstore-DTD.xml`](./data/Bookstore-DTD.xml)
 
 Notice a few things:
 
@@ -125,7 +125,7 @@ Notice a few things:
 </Bookstore>
 ```
 
-## [`Bookstore-IDREFs.xml`](./Bookstore-IDREFs.xml)
+## [`Bookstore-IDREFs.xml`](./data/Bookstore-IDREFs.xml)
 
 As before, the DTD is specified before the XML in the same file.
 

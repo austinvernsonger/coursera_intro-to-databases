@@ -16,7 +16,7 @@
 - Text
     - If XML is thought of as a tree, the text (strings) are the leaf elements of the tree
 
-## Example ([`Bookstore-noDTD.xml`](./Bookstore-noDTD.xml))
+## Example ([`Bookstore-noDTD.xml`](./data/Bookstore-noDTD.xml))
 
 ```xml
 <?xml version="1.0" ?>
