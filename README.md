@@ -10,6 +10,7 @@
     - XML Schema ([notes](02_xml-data/xml-schema.md) | [annotated slides](02_xml-data/xml-schema.pdf))
     - XML Quiz ([problems](02_xml-data/xml-quiz.md) | [solutions](02_xml-data/xml-quiz-solutions.md))
 - JSON Data
+    - JSON Introduction ([notes](03_json-data/json-intro.md) | [annotated slides](03_json-data/json-intro.pdf))
 - Relational Algebra
 - SQL
 - Relational Design Theory
