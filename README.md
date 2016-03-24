@@ -12,6 +12,7 @@
 - JSON Data
     - JSON Introduction ([notes](03_json-data/json-intro.md) | [annotated slides](03_json-data/json-intro.pdf))
     - JSON Demo ([notes](03_json-data/json-demo.md) | [annotated slides](03_json-data/json-demo.pdf))
+    - JSON Quiz ([problems](03_json-data/json-quiz.md) | [solutions](03_json-data/json-quiz-solutions.md))
 - Relational Algebra
 - SQL
 - Relational Design Theory
