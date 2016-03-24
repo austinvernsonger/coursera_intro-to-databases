@@ -14,6 +14,9 @@
     - JSON Demo ([notes](03_json-data/json-demo.md) | [annotated slides](03_json-data/json-demo.pdf))
     - JSON Quiz ([problems](03_json-data/json-quiz.md) | [solutions](03_json-data/json-quiz-solutions.md))
 - Relational Algebra
+    - Relational Algebra Part 1: Select, Project, Join ([annotated slides](./04_relational-algebra/relational-algebra-1.pdf))
+    - Relational Algebra Part 2: Set Operators, Renaming, Notation ([annotated slides](./04_relational-algebra/relational-algebra-2.pdf))
+    - Relational Algebra Lecture Questions ([Raw MD](./04_relational-algebra/relational-algebra-questions.md) | [PDF](./04_relational-algebra/relational-algebra-questions.pdf))
 - SQL
 - Relational Design Theory
 - Querying XML
